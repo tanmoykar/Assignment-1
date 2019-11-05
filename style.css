@@ -1,0 +1,72 @@
+.pappu{
+	border: 1px solid red;
+}
+#topht{
+	height: 40px;
+	background-color: #6666ff;
+}
+
+#topht a{
+	text-decoration: none;
+	margin: 5px;
+	padding: 5px;
+
+}
+
+
+
+.float{
+	float: left;
+}
+.sd{
+	height: 500px;
+	width: 200px;
+	background-color: #000000;
+	color: white;
+}
+.bd{
+height: 500px;
+width: 1100px;
+background-color:  #000d33;
+color: white;
+
+}
+.clearfix{
+	content: "";
+	clear:both;
+	display: table;
+}
+.ft{
+	height: 40px;
+	background-color: #6666ff;
+}
+.image{
+	border-radius: 50%;
+}
+.bht{
+	width: 187px;
+	height:190px;
+}
+
+.dan{
+	height: 200px;
+	width: 200px;
+}
+.left{
+	
+	width: 300px
+	
+}
+.right{
+	height: 200;
+	width: 300px
+}
+.im{
+	height:190px;
+	width: 190px;
+	border-radius: 50%;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
